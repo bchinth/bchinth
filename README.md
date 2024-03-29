@@ -1,5 +1,8 @@
 Blessy Chinthapalli
 <!---
-bchinth/bchinth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Expertise in designing and implementing complex data solutions in the Azure Cloud.
+
+Specialties: ETL Development, EDA, Data Modelling, CI/CD pipelines,  Data Visualization, Statistical Analysis
+
+Technologies: R, SQL, NoSQL, Python, Tableau, Power BI, Advanced Excel, Azure Synapse Analytics, ADF
 --->
