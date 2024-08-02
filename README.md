@@ -1,6 +1,6 @@
 Blessy Chinthapalli
 
-Expertise in designing and implementing complex data solutions in the Azure Cloud.
+Expertise in designing and implementing complex data solutions in the Cloud.
 
 Specialties: ETL Development, EDA, Data Modelling, CI/CD pipelines,  Data Visualization, Statistical Analysis, Machine Learning, NLP
 
